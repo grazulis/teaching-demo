@@ -2,4 +2,4 @@
 
 This is an example of adding a file using GitHub Editor.
 
-Somtims splling mistkes ocur. 
+Somtimes spelling mistakes occur. 
